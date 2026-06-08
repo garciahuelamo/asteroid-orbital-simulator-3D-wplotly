@@ -5,7 +5,7 @@ An interactive 3D orbital simulator built with Python that processes, transforms
 ## 📊 Data Pipeline & Source
 The data lifecycle of this project follows a modern Data Engineering workflow, moving from cloud storage to interactive visualization:
 
-1. **Data Sourcing:** The raw historical astronomical data is obtained from Kaggle's **[NASA Near-Earth Asteroids & Close Approaches](https://www.kaggle.com/)**.
+1. **Data Sourcing:** The raw historical astronomical data is obtained from Kaggle's **[NASA Near-Earth Asteroids & Close Approaches]([https://www.kaggle.com/](https://www.kaggle.com/datasets/darkmatternet/nasa-near-earth-asteroids-and-close-approaches))**.
 2. **ETL & Data Cleansing (Microsoft Fabric & Power BI):** Raw data was ingested into a cloud Lakehouse using **Microsoft Fabric**. Data cleansing, column profiling, date formatting (`close_approach_date`), and missing value handling were performed using **Power Query** to ensure data integrity.
 3. **Feature Engineering & Modeling (Python):** The clean dataset was loaded into Pandas. NumPy was then used to calculate and map target metrics into 3D Cartesian coordinates (`X, Y, Z`) to construct spatial vectors.
 
