@@ -53,7 +53,4 @@ This repository contains:
 * The dataset covers near-Earth asteroid close approaches from 2015 to 2035.
 * The notebook includes heliocentric coordinate conversion, orbital parameter analysis, and 3D plotting logic.
 
-## 📂 Folder Structure
-* `data/asteroid/` — Core project files, dataset, notebook, and visualization export.
-
 ---
