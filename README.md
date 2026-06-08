@@ -47,7 +47,6 @@ This repository contains:
 
 ## 🎯 Usage
 * Run the analysis workflow in `main.ipynb`.
-* Use the generated `simulador_asteroides_3d.html` to inspect asteroid orbits in an interactive browser view.
 
 ## 💡 Notes
 * The dataset covers near-Earth asteroid close approaches from 2015 to 2035.
