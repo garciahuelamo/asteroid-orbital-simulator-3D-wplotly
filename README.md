@@ -2,6 +2,9 @@
 
 An interactive 3D orbital simulator built with Python that processes, transforms, and visualizes astronomical data for Near-Earth Objects (NEOs).
 
+<img width="1023" height="466" alt="photo1" src="https://github.com/user-attachments/assets/eba40536-f666-472f-825d-45628190601a" />
+<img width="1867" height="753" alt="photo2" src="https://github.com/user-attachments/assets/4d203667-b804-49d3-94ef-f6fe6661d62c" />
+
 ## 📊 Data Pipeline & Source
 The data lifecycle of this project follows a modern Data Engineering workflow, moving from cloud storage to interactive visualization:
 
